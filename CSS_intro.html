@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Positioning Example</title>
+    <style>
+        /* Base styles for visibility */
+.container {
+  width: 400px;
+  height: 200px;
+  background-color: lightgray;
+  position: relative;
+}
+
+.static-box {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  position: static;
+}
+
+.relative-box {
+  background-color: green;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  top: 20px;
+  left: 20px;
+}
+
+.absolute-box {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 50px;
+  left: 150px;
+}
+
+.fixed-box {
+  background-color: purple;
+  width: 100px;
+  height: 100px;
+  position: fixed;
+  top: 10px;
+  right: 10px;
+}
+
+.sticky-box {
+  background-color: orange;
+  width: 100px;
+  height: 100px;
+  position: sticky;
+  top: 0;
+}
+    </style>
+</head>
+</html>
