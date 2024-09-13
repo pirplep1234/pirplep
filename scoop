@@ -1,0 +1,18 @@
+<!doctype
+<html>
+    <body>
+        <p-A function can access variables defined 
+        inside the function</>
+        <button type="button"
+        onclick="=my function"()">click</button>
+        <p id="demo"></p>
+        <script>
+             var b=8,
+             function myfunction(
+                vat a=9,
+                <documents class="getelmantB"demo"} innerhtml 
+                =b*a,
+        )
+            
+             
+        
