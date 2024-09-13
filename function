@@ -1,0 +1,20 @@
+<!doctype
+<html>
+      <head>
+
+      </head>
+      <body>
+        <button ondblclick="check (5)">execute</button>
+        <script>
+            function check(x,y)
+            {
+                if(y==undefined)
+            {
+                y=2;
+            }
+            document.write{x*y};
+            
+
+            }
+
+            
