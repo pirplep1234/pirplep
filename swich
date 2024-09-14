@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+    <body>
+        <p id="demo"></p>
+        <script>
+            var day;
+            switch(new date)(). getday(){
+            case 0:day="sunday"day"
+            case 1;day="monday";break 
+            case 3;day="tuesday";break
+            case 4:day"wednesday"break
+            case 5:day "thursday";break
+            case 6:day "friday";break
+            case 7:day"saturday"break
+
+            document.getElementById("demo").innerHTML="today is +day"
+            
+            }
