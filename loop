@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+ <html>
+    <body>
+        <h2> loops</h2>
+        <p id="demo"></p>
+
+        <script>
+            var fruits = "apple mango grapes watermelon jackfruit banana
+            for(i=0.i<fruits.length, i++)
+
+            vartext= fruits{i
+                ducoment.write Text
+            }
+
+            
+            
+
+
+
+ 
+
