@@ -1,21 +1,21 @@
-<!DOCTYPE html>
- <html>
+<!doctype html>
+  <html>
     <body>
-        <h2> loops</h2>
-        <p id="demo"></p>
+        <P> finding the largest number with help of argument</P>
+        <p> id="demo"<>\<p>
+             
+            <script>
+            \\ for (intialize); condition ;increament\decreament)
+            function findmax(){
+                var max=0;
+                for (i=0);arguments(i)
+                if (arguments){i}max )
+                max= arguments{i}
 
-        <script>
-            var fruits = "apple mango grapes watermelon jackfruit banana
-            for(i=0.i<fruits.length, i++)
 
-            vartext= fruits{i
-                ducoment.write Text
-            }
 
+document.getElementById("demo"). innerHTML=findmax(8 4 2 6 9 75 )
+        
+                
             
-            
-
-
-
- 
-
+        
