@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+    <h2> js <objects</h2>
+    <P>there are two diffrent ways to access on object proprety</P>
+    <p> you can use proprety or (proprety)</p>
+    <p  id="result">
+        <script>
+            var man=
+            firsname: maaisa age 17
+
+            \\displayn the data 
+            document: getelmentyBid("result ") interHTML=.firstname+"" is +
+            man age + "years old ""
+            <\<script
+
+
+
+    
+    
