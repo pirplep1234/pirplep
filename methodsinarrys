@@ -1,0 +1,17 @@
+<!Doctype html>
+<html>
+    <body>
+        <h2>methods in arry</h2>
+        <p>join()and pop()</p>
+        <p>the join ()method jion arret elements into a string and the 
+            pop()method removes the last element of an array.
+        </p>
+        <P id="demo"></P>
+        <p id="firstoop"></p>
+        <p id="secondpop"></p>
+
+        <script>
+         var fruits={"Banana""orange""apple""mango "}
+         document.getElementById("demo").innerHTML=fruits.join("@")
+         document.getElementById("firstoop").innerHTML=fruits.pop();
+         document.getElementById("secondpop")innerHTML
