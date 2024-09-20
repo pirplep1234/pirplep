@@ -1,0 +1,18 @@
+<!Doctype html
+<html>
+    <body>
+        <h2>javascript arrays</h2>
+        <p>do a calculate then disply the result</p>
+        <p id="demo"></p>
+
+        <script>
+            function add(as,b)
+            return a+b // result will return with the result to the output <p>
+
+                function evarege(a,20)
+                return add(a,b)/2;
+
+                let resultb= average (a,20)
+                document.getElementById("demo").innerHTML
+        
+    
