@@ -2,18 +2,27 @@
 <html>
     <body>
         <p>click the button to get a time =based greetings</p>
-        <button oncanplay="myt functon ()">click me</button>
+        <button oncanplay="myFuncton()">click me</button>
         <p id="hour"></p>
         <p id="greet"></p>
         <script>
-            function my function()
+            function myFunction(){
+
             var greetings;
-            var time=new Data().gethours();
+            var time=new Date().gethours();
 
             if(time<10)
             greetings = "good morning ";
 
             else if (time<20)
-            greetings="good evening";
-        document.getElementById("hour").innerHTML="current
-        document.getElementById("greet")innerHTML=greetings
+            greetings="good day";
+        else{
+            greetings = "Good evening";
+        }
+        
+        }
+        document.getElementById("hour").innerHTML="current hour is: "+time;
+        document.getElementById("greet").innerHTML=greetings;
+        </script>
+    </body>
+</html>
