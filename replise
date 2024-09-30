@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<Html>
+    <body>
+        
+        <h2>string replace methods</h2>
+        <p>search a string for "doung" ,display the position of the ,
+            math and replace the word with any word you require and display.
+        </p>
+        <p id="search"></p>
+        <p id="replace"
+        <p id="display"
+        var str="hello how are you doing"
+        var searchchops=str.search("doing");
+        var=str.search replace("how are you ,what are you")
+        var X=70;
+        var y=89;
+        docoment.getlemenTYBid("search").innerhtml=searchchops;
+        docoment .getlemenTYBId("result").,innerhtml=txt;
+        docoment.getlemenTBId("result")innerhtml=string(X)+string
+
+        
+    </body>
+</Html>
