@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<head>
+    <tittle>Adding footer</tittle>
+    <style>
+        body
+
+            background-color:chocolate
+            font-family 'segeo UI,Tahoma,'vredana, sans-serif;
+            font-optical-sizing: auto
+            font-weight: bold;
+            {
+
+        footer{
+            position: fixed
+            bottom: 10px;
+            :right 0px;
+            width 100%
+            <backround-color:blueviolet;
+            color: black
+            texr-align: center;
+
+            font-family: cambria, cochin Georgia, Times ,Times new Roman,serif;
+            font-optical-sizing: auto
+            font-style: normal;
+
+
+            footer-section{
+            backround: #114
+            position: relative
+
+            footer-cta{
+                border-bottom: 1px solid black
+
+            }
+            single-cta i{
+                color:aquamarine;
+                font-size 30px;
+                flont: left;
+                margin-top: 8px;
+
+            }
+            cta-text span{ 
+                color:#114
+                font:size: 20px;
+
+            }
+
+            footer-content{
+                positon: relative;
+                z-index: 2;
+            }
+
+            footer-pattern img{
+            position: absolute;
+            top: 0
+            left: 0;
+            height: 330px;
+            backround-size: cover;
+            backround- position: 100% 100%
+
+
+            }
+
+            }
+
+
+        }        
+            }
+
+        
+
+        
